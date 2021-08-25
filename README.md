@@ -8,4 +8,9 @@ This map is autored by peacefighter, with the help of Beherith and suggestion fr
 - WM contains the world machine files.
 - smfCompilationSettings contains the settings for Beherith's [SMF compialer](https://github.com/Beherith/springrts_smf_compiler)
 
+## Open TO DO
 
+- Adding Geo Vents
+- Play testing
+- Generating Wet Version of the map
+- Adding Objects on the field
