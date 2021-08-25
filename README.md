@@ -1,8 +1,10 @@
-Omega Valley is inspired by the Ashes of the Singularity map Gamma Draconis for [Beyond All Reason](https://www.beyondallreason.info)
+Omega Valley is inspired by the [Ashes of the Singularity](https://www.ashesofthesingularity.com) map [Gamma Draconis](https://wiki.ashesofthesingularity.com/index.php?title=File:Gamma_Draconis.png) for [Beyond All Reason](https://www.beyondallreason.info)
 
-This map is made for drawing combat to the middle form both sides as a high yield of metal can be found in the mid section of the map.
+Autored by peacefighter, with the help of Beherith and suggestion from IceXuick and GayDad.
 
-This map is autored by peacefighter, with the help of Beherith and suggestion from IceXuick and GayDad
+This map is made for drawing combat to the middle form both sides as a high yield of metal can be found in the mid section of the map. Requiring both teams to strive and conqueror the middle to achive victory. As leaving it to the enemy could give them a major metal advantage.
+
+---
 
 - SpringMap contains the file structure for zipping it as a .sd7 map file.
 - WM contains the world machine files.
@@ -12,6 +14,7 @@ This map is autored by peacefighter, with the help of Beherith and suggestion fr
 
 Open To-Do:
 
+- 2v2 and 3v3 map 
 - Adding Geo Vents
 - Play testing
 - Generating Wet Version of the map
