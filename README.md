@@ -1,4 +1,4 @@
-Omega Valley is inspired by the Ashes of the Singularity map Gamma Draconiss for [Beyond All Reason](https://www.beyondallreason.info)
+Omega Valley is inspired by the Ashes of the Singularity map Gamma Draconis for [Beyond All Reason](https://www.beyondallreason.info)
 
 This map is made for drawing combat to the middle form both sides as a high yield of metal can be found in the mid section of the map.
 
