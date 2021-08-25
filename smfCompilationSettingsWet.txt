@@ -1,0 +1,18 @@
+-o
+../OmegaValley/SpringMapWet/maps/Omega_Valley.smf
+-t
+../OmegaValley/WM/Omega Valley_texture.bmp
+-a
+../OmegaValley/WM/Omega Valley_height_final.png
+-m
+../OmegaValley/WM/Omega Valley metal 1024.png
+-x
+800.0
+-n
+-200.0
+-g
+geovent.bmp
+-p
+../OmegaValley/WM/Omega Valley_minimap.png
+-v
+-Sinc -quality_highest
