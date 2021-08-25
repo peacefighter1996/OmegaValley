@@ -4,6 +4,9 @@ Autored by peacefighter, with the help of Beherith and suggestion from IceXuick 
 
 This map is made for drawing combat to the middle form both sides as a high yield of metal can be found in the mid section of the map. Requiring both teams to strive and conqueror the middle to achive victory. As leaving it to the enemy could give them a major metal advantage.
 
+![Map Layout](https://github.com/peacefighter1996/OmegaValley/blob/master/WM/Omega Valley_minimap.png)
+
+
 ---
 
 - SpringMap contains the file structure for zipping it as a .sd7 map file.
