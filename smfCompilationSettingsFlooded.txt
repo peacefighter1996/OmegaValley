@@ -1,5 +1,5 @@
 -o
-../OmegaValley/SpringMapWet/maps/Omega_Valley.smf
+../OmegaValley/SpringMapFlooded/maps/Omega_Valley.smf
 -t
 ../OmegaValley/WM/Omega Valley_texture.bmp
 -a
