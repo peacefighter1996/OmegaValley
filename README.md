@@ -15,10 +15,12 @@ This map is made for drawing combat to the middle form both sides as a high yiel
 
 ---
 
-Open To-Do:
+To-Do:
 
-- 2v2 and 3v3 map 
-- Adding Geo Vents
-- Play testing
-- Generating Wet Version of the map
-- Adding Objects on the field
+- [x] Adding Geo Vents
+- [ ] Play testing
+- [ ] Creating flooded version
+- [ ] 2v2 and 6v6 map 
+- [ ] Generating Wet Version of the map
+- [ ] Adding Objects on the field
+- [ ] Fixing 
