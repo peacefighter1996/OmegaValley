@@ -15,11 +15,11 @@
 
 		
 local mapinfo = {
-	name        = "Omega_Valley_V0.5",
-	shortname   = "Omega_Valley_V0.5",
+	name        = "Omega Valley",
+	shortname   = "Omega Valley",
 	description = "4v4 map by [DE]Peacefighter",
 	author      = "[DE]Peacefighter (peacefighter1000@gmail.com)",
-	version     = "1",
+	version     = "V0.1",
 	--mutator   = "deployment";
 	mapfile   = "maps/Omega_Valley.smf", --// location of smf/sm3 file (optional)
 	modtype     = 3, --// 1=primary, 0=hidden, 3=map
