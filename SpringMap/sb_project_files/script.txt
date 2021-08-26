@@ -1,0 +1,70 @@
+[GAME]
+{
+	gameStartDelay = 0;
+	gameType = SpringBoard Core test-1331-dc67950;
+	hostIP = 127.0.0.1;
+	isHost = 1;
+	mapName = blank_195566gamma2 1.0;
+	mapSeed = 1;
+	mutator0 = gamma2 1.0;
+	numPlayers = 2;
+	numUsers = 2;
+	startPosType = 2;
+
+	[allyTeam0]
+	{
+		numAllies = 1;
+	}
+
+	[allyTeam1]
+	{
+		numAllies = 1;
+	}
+
+	[mapOptions]
+	{
+		new_map_x = 14;
+		new_map_y = 14;
+	}
+
+	[modOptions]
+	{
+		_sb_game_name = SpringBoard Core;
+		_sb_game_version = test-1331-dc67950;
+		deathmode = neverend;
+		project_path = springboard/projects/gamma2.sdd;
+		sb_game_mode = dev;
+	}
+
+	[player0]
+	{
+		isFromDemo = 1;
+		name = Team 1;
+		spectator = 1;
+		team = 1;
+	}
+
+	[player1]
+	{
+		isFromDemo = 1;
+		name = Team 0;
+		spectator = 1;
+		team = 2;
+	}
+
+	[team0]
+	{
+		allyTeam = 1;
+		RGBColor = 0.78431374 0 0;
+		teamLeader = 0;
+	}
+
+	[team1]
+	{
+		allyTeam = 0;
+		RGBColor = 0.35294119 0.35294119 1;
+		teamLeader = 0;
+	}
+
+}
+

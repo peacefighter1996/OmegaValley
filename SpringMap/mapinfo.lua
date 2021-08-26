@@ -15,9 +15,9 @@
 
 		
 local mapinfo = {
-	name        = "Omega_Valley_V0.3",
-	shortname   = "Omega_Valley_V0.3",
-	description = "4v4 map by [DE]Peacefighter ",
+	name        = "Omega_Valley_V0.5",
+	shortname   = "Omega_Valley_V0.5",
+	description = "4v4 map by [DE]Peacefighter",
 	author      = "[DE]Peacefighter (peacefighter1000@gmail.com)",
 	version     = "1",
 	--mutator   = "deployment";
@@ -33,7 +33,7 @@ local mapinfo = {
 	notDeformable   = false,
 	gravity         = 100,
 	tidalStrength   = 15,
-	maxMetal        = 0.59, --0.69, --=1.40
+	maxMetal        = 0.49, --0.69, --=1.40
 	extractorRadius = 90.0,
 	voidWater       = false,
 	autoShowMetal   = true, -- this seems to interfere with cmd area mex
@@ -263,25 +263,15 @@ local mapinfo = {
 	},]]--
 
 	teams = {
-		[0] = {startPos = {x = 1300, z = 3000}},
-		[1] = {startPos = {x = 11000, z = 9200}},
-		[2] = {startPos = {x = 9200, z = 1400}},
-		[3] = {startPos = {x = 3000, z = 11000}},
+		[0] = {startPos = {x = 7090, z = 2098}},
+		[1] = {startPos = {x = 7246, z = 6437}},
+		[2] = {startPos = {x = 7227, z = 748}},
+		[3] = {startPos = {x = 7446, z = 7608}},
 		
-		[4] = {startPos = {x = 1200, z = 6600}},
-		[5] = {startPos = {x = 11000, z = 5600}},
-		[6] = {startPos = {x = 5600, z = 1200}},
-		[7] = {startPos = {x = 6600, z = 11000}},
-		
-		[8] = {startPos = {x = 1700, z = 9000}},
-		[9] = {startPos = {x = 10500, z = 3300}},
-		[10] = {startPos = {x = 3400, z = 1700}},
-		[11] = {startPos = {x = 9000, z = 10500}},
-		
-		[12] = {startPos = {x = 3200, z = 5000}},
-		[13] = {startPos = {x = 9000, z = 7200}},
-		[14] = {startPos = {x = 7200, z = 3300}},
-		[15] = {startPos = {x = 5100, z = 9000}},
+		[4] = {startPos = {x = 1088, z = 6064}},
+		[5] = {startPos = {x = 950, z = 1200}},
+		[6] = {startPos = {x = 959, z = 7429}},
+		[7] = {startPos = {x = 736, z = 555}},
 	},
 	
 
